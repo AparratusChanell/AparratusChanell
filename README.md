@@ -2,7 +2,7 @@
 <hr>
 <h2>Application Developer Project :</h2>
 
- => <b><a href = "https://github.com/AparratusChanell/ProjectManager">Personal Project Manager Desktop Application</a></b>
+ => <b><a href = "https://github.com/AparratusChanell/ProjectManager">Project Manager Desktop Application</a></b>
    > ( https://github.com/AparratusChanell/ProjectManager )
   - Java Swing Application with embedded H2 Database
 <hr>
