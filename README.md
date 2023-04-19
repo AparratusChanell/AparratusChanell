@@ -1,16 +1,11 @@
-### Hi there 👋
+<h1>Hi there! I'm Zyver, nice to meet you.</h1>
+<hr>
+<h2>Application Developer Project :</h2>
 
-<!--
-**AparratusChanell/AparratusChanell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ => <b><a href = "https://github.com/AparratusChanell/ProjectManager">Personal Project Manager Desktop Application</a></b>
+   > ( https://github.com/AparratusChanell/ProjectManager )
+  - Java Swing Application with embedded H2 Database
+<hr>
+<h2>Other Profile Links :</h2>
+ <img align = "left" alt = "Zyver | LinkedIn" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> LinkedIn
+ ( https://linkedin.com/in/zyver )
