@@ -12,7 +12,7 @@
   - React Native Android Application and Spring Boot Server
 <hr>
 
- => <b><a href = https://github.com/AparratusChanell/PersonalPlanner">PersonalPlanner</a></b>
+ => <b><a href = "https://github.com/AparratusChanell/PersonalPlanner">PersonalPlanner</a></b>
    > ( https://github.com/AparratusChanell/PersonalPlanner )
   - Productivity Mobile Application for Android Platform. Budget, finance, calendar scheduler, or a simple planner via a business-like manner
 <hr>
