@@ -4,7 +4,7 @@
 
  => <b><a href = "https://github.com/AparratusChanell/ProjectManager">Project Manager Desktop Application</a></b>
    > ( https://github.com/AparratusChanell/ProjectManager )
-  - Java Swing Application with embedded H2 Database
+  - Java Swing Standalone Application
 <hr>
 
  => <b><a href = "https://github.com/AparratusChanell/Planner-ServerBased">Planner-ServerBased</a></b>
